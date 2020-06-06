@@ -11,6 +11,7 @@ A GitHub repository for Call for Code submissions, by Team Hope
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Tech Stack](#tech-stack)
+1. [Submission document](#submission-document)
 
 ## Short description
 
@@ -28,7 +29,7 @@ Covid Healthcare Register (CHR) aims to help bridge this gap between the users t
 
 ## Demo video
 
-
+[![Watch the video](CHR-Team.png)](https://youtu.be/CZLIzrkNpzg)
 
 ## The architecture
 
@@ -79,6 +80,7 @@ You can find the running application at [covid-healthcare-register](http://covid
 * [AWS EC2](https://aws.amazon.com/ec2/) - Used for backend server
 * [Angular](https://angular.io/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency management
+* [Npm](https://www.npmjs.com/) - Dependency management
 
 ## Tech Stack
 
@@ -97,3 +99,7 @@ Java 8, Spring Boot 2.3.0.RELEASE, in-memory H2 database, HERE APIs
 Backend code deployed on AWS EC2
 
 [Backend Project Code](https://github.com/Neptune212/Covid-HealthCare-Register-BE )
+
+## Submission Document
+
+![Submission document](CHR-Submission.docx)
